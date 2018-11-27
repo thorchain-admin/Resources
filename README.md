@@ -26,7 +26,7 @@ Resources for the CanYa Project.
 
 Find all contract addresses used in the CanYa Project here:
 
-[Ethereum Contracts](https://github.com/canyaio/Resources/blob/master/ethereumcontracts.md)
+[Ethereum Contracts](https://github.com/canyaio/Resources/blob/master/EthereumContracts.md)
 
 ## Branding
 
