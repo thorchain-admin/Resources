@@ -4,7 +4,7 @@ Resources for the CanYa Project.
 ## Technology
 
 | Platform | Frontend/Backend | Hosted | Repo | Web3 | DNS Provider | DNS Custodian
- --- | --- | --- | --- | ---
+| --- | --- | --- | --- | --- | --- | --- |
  canya.com | redirects to canya.io |-|-|-|-|-|
  canya.io | Angular/Firebase |?| link | BancorWidget | Name.com | CanYaHQ
  canwork.io | Angular/Firebase |?| link | link | Name.com | CanYaHQ
