@@ -12,6 +12,16 @@ Resources for the CanYa Project.
 
 ## Standards
 
+[Ethereum Standards]()
+
+[IPFS Standards]()
+
+[FrontEnd Standards]()
+
+[Backend Standards]()
+
+[PullRequest Standards]()
+
 ## Ethereum Contracts
 
 Find all contract addresses used in the CanYa Project here:
