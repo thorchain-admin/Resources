@@ -12,7 +12,7 @@ Resources for the CanYa Project.
 
 ## Standards
 
-[Ethereum Standards]()
+[Ethereum Standards](https://github.com/canyaio/Resources/blob/master/SmartContractStandards.md)
 
 [IPFS Standards]()
 
